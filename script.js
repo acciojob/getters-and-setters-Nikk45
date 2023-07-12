@@ -1,20 +1,20 @@
 //complete this code
-class Person {
-	Person(name,age){
-		this.name = name;
-		this.age = age;
-	}
+// class Person {
+// 	Person(name,age){
+// 		this.name = name;
+// 		this.age = age;
+// 	}
 
-	get name(){
-		return this.name;
-	}
+// 	get name(){
+// 		return this.name;
+// 	}
 
-	set age(newAge){
-		this.age = newAge;
-	}
-}
+// 	set age(newAge){
+// 		this.age = newAge;
+// 	}
+// }
 
-class Student extends Person {
+// class Student extends Person {
 // 	study(){
 // 		console.log(`${this.name} is studying`);
 // 	}
